@@ -1,6 +1,6 @@
 # TUBES-PBO
 
-## Judul Proyek :
+## Judul Proyek : Whack a Mole
 
 ## Deskripsi Proyek :
 

@@ -14,7 +14,7 @@ Di dalam game terdapat fitur 'choose a mole' yang memberikan pemain opsi untuk m
 - silahkan jalankan game dengan mendownload kode program ini, pastikan library pygame sudah terinstall
 - ketika memulai game, silahkan tekan tombol play
 - pilih jenis mole nya dan anda sudah bisa memainkan gamenya
-- pukullah mole yang muncul sebanyak mungkin agar bisa lanjut ke level berikutnya
+- pukulah mole yang muncul sebanyak 5 kali agar bisa lanjut ke level berikutnya
 - game over terjadi jika pengguna tidak dapat memukul mole yang muncul sebanyak 5 kali.
 
 ## Dependensi paket (library) yang dibutuhkan untuk menjalankan aplikasi :

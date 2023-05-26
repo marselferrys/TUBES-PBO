@@ -3,12 +3,21 @@
 ## Judul Proyek : Whack A Mole
 
 ## Deskripsi Proyek :
+Whac-A-Mole adalah game arcade klasik. Konsep permainan ini yaitu pemain harus memukul tikus-tikus kecil yang muncul dari lubang dengan palu secepat mungkin sebelum mereka kembali masuk ke lubang.
+
+Pada game Whac-A-Mole, terdapat beberapa lubang yang masing-masing berisi tikus. Game ini dimainkan untuk mencapai score tertinggi. Semakin banyak dan tepat pukulan dilakukan, semakin tinggi skor akhirnya dan tempo tikus untuk keluar pada lubang akan semakin cepat. Namun, jika pemain melakukan ketidaktepatan memukul hingga beberapa kali, maka game dinyatakan berakhir dan ditampilkan score terakhir pemain.
+
+Di dalam game terdapat fitur 'choose a mole' yang memberikan pemain opsi untuk memilih dari tiga jenis mol yang berbeda, yang akan muncul selama permainan berlangsung. Sehingga dapat memberikan variasi pada pengalaman bermain game
+
 
 ## Cara menjalankan aplikasi (cara bermain) :
 
 ## Dependensi paket (library) yang dibutuhkan untuk menjalankan aplikasi :
+- pygame
+
 
 ## UML Class diagram proyek :
+![UML TUBES PBO.png]( https://github.com/marselferrys/TUBES-PBO/blob/main/UML%20TUBES%20PBO.png )
 
 ## Kontributor Pengembangan Game :
 

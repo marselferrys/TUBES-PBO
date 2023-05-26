@@ -1,7 +1,7 @@
 # modul 
 import pygame # untuk pembuatan game
 import random # untuk memberikan angka acak kemuculan tikus
-from pygame import *
+from pygame import * 
 
 # class utama untuk mengelola game
 class GameManager:

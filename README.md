@@ -1,4 +1,4 @@
-# TUBES-PBO
+# TUGAS BESAR MK PEMROGRAMAN BERORIENTASI OBJEK
 
 ## Judul Proyek : Whack A Mole
 
